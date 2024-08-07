@@ -1,5 +1,8 @@
+faiss-cpu
 langchain
 langchain-community
 langchain-openai
+pandas
+pandasql
 pydantic
 python-dotenv
