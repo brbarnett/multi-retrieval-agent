@@ -1,0 +1,134 @@
+[
+  {
+    "issue": "Uneven pressure distribution",
+    "solution": "Ensure the mold and platens are clean and properly aligned. Regularly calibrate the machine to maintain even pressure. Check for and replace any worn or damaged seals.",
+    "date": "2024-01-12",
+    "id": "ISSUE-1001",
+    "replacedParts": []
+  },
+  {
+    "issue": "Incomplete curing",
+    "solution": "Verify that the heating elements are functioning correctly and uniformly. Adjust the curing time and temperature settings according to material specifications. Regularly inspect and maintain heating elements and thermocouples.",
+    "date": "2024-02-05",
+    "id": "ISSUE-1002",
+    "replacedParts": []
+  },
+  {
+    "issue": "Material flash",
+    "solution": "Check mold clamping force and ensure it is adequate. Inspect the mold for wear and tear and repair or replace if necessary. Ensure proper material loading to prevent excess material overflow.",
+    "date": "2024-01-28",
+    "id": "ISSUE-1003",
+    "replacedParts": []
+  },
+  {
+    "issue": "Air entrapment",
+    "solution": "Implement proper venting techniques in the mold design. Use vacuum-assisted molding if necessary. Ensure the material is loaded correctly to minimize air pockets.",
+    "date": "2024-02-16",
+    "id": "ISSUE-1004",
+    "replacedParts": []
+  },
+  {
+    "issue": "Sticking of parts to mold",
+    "solution": "Apply an appropriate mold release agent before each cycle. Inspect and clean the mold surfaces regularly. Consider using molds with better release properties or modifying the mold design to reduce sticking.",
+    "date": "2024-03-03",
+    "id": "ISSUE-1005",
+    "replacedParts": []
+  },
+  {
+    "issue": "Temperature fluctuations",
+    "solution": "Check and maintain the thermostat and heating elements. Ensure proper insulation around the machine. Regularly monitor and adjust temperature settings to maintain consistency.",
+    "date": "2024-01-14",
+    "id": "ISSUE-1006",
+    "replacedParts": []
+  },
+  {
+    "issue": "Hydraulic system leaks",
+    "solution": "Inspect hydraulic lines and connections for any signs of wear or damage. Replace faulty components and tighten connections. Regularly check hydraulic fluid levels and top up as necessary.",
+    "date": "2024-02-07",
+    "id": "ISSUE-1007"
+  },
+  {
+    "issue": "Mold misalignment",
+    "solution": "Ensure proper alignment of the mold before each cycle. Use alignment tools and jigs as necessary. Regularly inspect and calibrate the machine to maintain alignment accuracy.",
+    "date": "2024-01-25",
+    "id": "ISSUE-1008",
+    "replacedParts": ["TC-78901"]
+  },
+  {
+    "issue": "Excessive cycle time",
+    "solution": "Review and optimize the molding process parameters. Identify and eliminate any bottlenecks in the cycle. Regularly maintain and lubricate moving parts to ensure smooth operation.",
+    "date": "2024-02-12",
+    "id": "ISSUE-1009",
+    "replacedParts": []
+  },
+  {
+    "issue": "Inconsistent part quality",
+    "solution": "Ensure uniform material loading and distribution. Maintain consistent temperature and pressure throughout the cycle. Regularly inspect and clean the mold to prevent contamination.",
+    "date": "2024-03-01",
+    "id": "ISSUE-1010",
+    "replacedParts": []
+  },
+  {
+    "issue": "Overheating of components",
+    "solution": "Ensure proper ventilation and cooling around the machine. Regularly clean and maintain cooling systems. Monitor temperature levels and adjust settings to prevent overheating.",
+    "date": "2024-01-30",
+    "id": "ISSUE-1011",
+    "replacedParts": []
+  },
+  {
+    "issue": "Control system errors",
+    "solution": "Check for software updates and install as necessary. Inspect wiring and connections for any faults. Reset the control system and reconfigure settings if needed.",
+    "date": "2024-02-10",
+    "id": "ISSUE-1012",
+    "replacedParts": []
+  },
+  {
+    "issue": "Mold surface damage",
+    "solution": "Regularly inspect and repair any damage to the mold surface. Use protective coatings to prevent further damage. Replace the mold if necessary to ensure product quality.",
+    "date": "2024-01-18",
+    "id": "ISSUE-1013",
+    "replacedParts": ["HE-12345"]
+  },
+  {
+    "issue": "Insufficient clamping force",
+    "solution": "Check and adjust the clamping force settings. Inspect the clamping mechanism for wear or damage. Replace any faulty components to maintain adequate clamping force.",
+    "date": "2024-02-20",
+    "id": "ISSUE-1014",
+    "replacedParts": []
+  },
+  {
+    "issue": "Electrical faults",
+    "solution": "Inspect and test electrical components and wiring. Replace any faulty components and ensure proper grounding. Regularly maintain and check the electrical system to prevent faults.",
+    "date": "2024-01-22",
+    "id": "ISSUE-1015",
+    "replacedParts": []
+  },
+  {
+    "issue": "Inconsistent material flow",
+    "solution": "Ensure proper material preheating and mixing. Check for blockages or obstructions in the material feed system. Adjust material feed settings to maintain consistent flow.",
+    "date": "2024-02-15",
+    "id": "ISSUE-1016",
+    "replacedParts": []
+  },
+  {
+    "issue": "Excessive mold wear",
+    "solution": "Use high-quality mold materials and coatings. Regularly inspect and maintain the mold. Implement a preventive maintenance schedule to extend mold life.",
+    "date": "2024-01-27",
+    "id": "ISSUE-1017",
+    "replacedParts": ["HE-12345", "CP-44556"]
+  },
+  {
+    "issue": "Machine vibration",
+    "solution": "Ensure the machine is properly leveled and secured. Inspect and tighten any loose components. Use vibration dampening materials and techniques to reduce vibration.",
+    "date": "2024-02-18",
+    "id": "ISSUE-1018",
+    "replacedParts": []
+  },
+  {
+    "issue": "Cooling system failures",
+    "solution": "Regularly inspect and maintain the cooling system components. Ensure proper coolant levels and flow. Replace any faulty cooling system parts to prevent failures.",
+    "date": "2024-01-20",
+    "id": "ISSUE-1019",
+    "replacedParts": []
+  }
+]
