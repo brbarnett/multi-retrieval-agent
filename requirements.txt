@@ -2,7 +2,7 @@ faiss-cpu
 langchain
 langchain-community
 langchain-openai
+langgraph
 pandas
 pandasql
-pydantic
 python-dotenv

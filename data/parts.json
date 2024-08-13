@@ -1,0 +1,32 @@
+[
+  {
+    "partName": "Heating Element",
+    "partNumber": "HE-12345",
+    "inventory": 15,
+    "location": "Aisle 3, Shelf B"
+  },
+  {
+    "partName": "Platen",
+    "partNumber": "PL-67890",
+    "inventory": 8,
+    "location": "Aisle 1, Shelf D"
+  },
+  {
+    "partName": "Hydraulic Cylinder",
+    "partNumber": "HC-11223",
+    "inventory": 5,
+    "location": "Aisle 2, Shelf A"
+  },
+  {
+    "partName": "Control Panel",
+    "partNumber": "CP-44556",
+    "inventory": 3,
+    "location": "Aisle 4, Shelf C"
+  },
+  {
+    "partName": "Thermocouple",
+    "partNumber": "TC-78901",
+    "inventory": 20,
+    "location": "Aisle 3, Shelf F"
+  }
+]
