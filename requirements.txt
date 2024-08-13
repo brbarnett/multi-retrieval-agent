@@ -3,6 +3,8 @@ langchain
 langchain-community
 langchain-openai
 langgraph
+langsmith
 pandas
 pandasql
 python-dotenv
+uuid
