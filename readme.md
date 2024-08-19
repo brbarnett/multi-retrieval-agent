@@ -22,7 +22,7 @@ The graph defined in this notebook is as follows:
 ![A visual representation of the graph](images/graph.png)
 
 ## Solution components
-- Azure OpenAI Service: this solution is currently using Azure OpenAI Service to deploy the `GPT-4o` and `text-embedding-3-small` models for use by LangChain
+- Azure OpenAI Service: this solution is currently using Azure OpenAI Service to deploy the `GPT-4o-mini` and `text-embedding-3-small` models for use by LangChain
 - FAISS: to mock similarity search, FAISS is used as an in-memory vector store
 
 ## Running the `agent.ipynb` notebook
